@@ -1,0 +1,1 @@
+<div class="copyright">&copy; 2018 Entornos Virtuales de Aprendizaje</div>
